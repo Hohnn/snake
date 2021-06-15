@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(39, 39, 46);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+button {
+    display: block;
+    margin-top: 2rem;
+    padding: 1rem 2rem;
+    font-size: 2rem;
+    font-weight: bold;
+    text-transform: uppercase;
+    box-shadow: black 2px 5px 10px;
+    border-radius: 1rem;
+}
